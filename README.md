@@ -1,4 +1,4 @@
-# 🚀 Piyush Bhadade - Portfolio
+# 🚀 Piyush Bhadade 
 
 <div align="center">
   <img src="https://img.shields.io/badge/Competitive%20Programmer-Expert-brightgreen?style=for-the-badge&logo=codeforces" alt="Competitive Programmer">
