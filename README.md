@@ -1,135 +1,113 @@
 <div align="center">
 
-<!-- Dynamic Typing Header -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=Hey+there!+I'm+Piyush+Bhadade+%F0%9F%91%8B;Backend+Engineer+%7C+AI+Systems+Builder;Turning+ideas+into+scalable+reality+%F0%9F%9A%80" alt="Typing SVG" />
+<!-- Animated Wave Banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,3,30&height=200&section=header&text=Piyush%20Bhadade&fontSize=60&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Backend%20Engineer%20%7C%20Agentic%20AI%20Builder%20%7C%20Problem%20Solver&descAlignY=58&descSize=16&descColor=00D9FF" width="100%"/>
+
+<!-- Typing SVG -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=3000&pause=800&color=00D9FF&center=true&vCenter=true&width=750&lines=🔧+Building+scalable+backends+that+never+sleep;🤖+Crafting+Agentic+AI+Systems+with+purpose;📱+From+idea+to+app+—+end+to+end;🏆+SIH+2025+Finalist+%7C+CodeSpark+Champion;🚀+Turning+real+problems+into+real+solutions" alt="Typing SVG" />
 
 <br/>
 
-<!-- Visitor Counter & Socials -->
-<a href="https://linkedin.com/in/piyushbhadade27">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="https://github.com/CreativeSpace27">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-<a href="mailto:piyushbhadade27@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-<a href="#">
-  <img src="https://img.shields.io/badge/Portfolio-FF6B35?style=for-the-badge&logo=firefox&logoColor=white" />
-</a>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/piyushbhadade27)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:piyushbhadade27@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/CreativeSpace27)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23FF6B35.svg?style=for-the-badge&logo=firefox&logoColor=white)](#)
 
-<br/><br/>
+<br/>
 
-<img src="https://komarev.com/ghpvc/?username=CreativeSpace27&style=for-the-badge&color=00D9FF&label=PROFILE+VIEWS" />
+![Profile Views](https://komarev.com/ghpvc/?username=CreativeSpace27&style=flat-square&color=00D9FF&label=Profile+Views)
 
 </div>
 
 ---
 
-## 🧠 About Me
+<div align="center">
+
+## `> whoami`
+
+</div>
 
 ```python
 class Piyush:
-    name        = "Piyush Bhadade"
-    location    = "Pune, Maharashtra, India 🇮🇳"
-    education   = "B.E. Computer Science @ Dr. D.Y. Patil Technical Campus (2027)"
-    
-    passions    = [
-        "🔧 Backend Architecture",
-        "🤖 Agentic AI Systems",
-        "📱 Full Stack & Android Development",
-        "🧩 Solving Real-World Problems at Scale",
-    ]
-    
-    current_focus = "Building multi-agent LLM systems that actually work"
-    
-    fun_fact    = "I ranked 1st at CodeSpark 2025 & reached SIH 2025 Finals 🏆"
-    
-    def say_hi(self):
-        print("Thanks for stopping by! Let's build something extraordinary 🚀")
+    role        = "Backend Engineer & Agentic AI Builder"
+    location    = "📍 Pune, Maharashtra, India"
+    education   = "B.E. CS @ Dr. D.Y. Patil Technical Campus (2027)  |  SGPA: 8.59"
+
+    passions    = {
+        "🔧 Backend"    : "Architecting systems that scale and never break",
+        "🤖 Agentic AI" : "Multi-agent LLMs that reason, retrieve, and explain",
+        "📱 Mobile"     : "Android & Flutter apps with intuitive UX",
+        "🧩 Problems"   : "Real-world challenges → elegant software solutions",
+    }
+
+    currently   = "Exploring RAG pipelines & distributed agentic workflows"
+    motto       = "Ship fast. Think deep. Build things that matter. 🚀"
 ```
 
 ---
 
-## 🛠️ Tech Arsenal
+## 🛠️ Tech Stack
 
 <div align="center">
 
-### 💻 Languages
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
+**Languages**
 
-### 🌐 Backend & Web
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+<img src="https://skillicons.dev/icons?i=java,python,cpp,c&theme=dark&perline=8" />
 
-### 📱 Mobile
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+<br/>
 
-### 🗄️ Databases & Cloud
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6B35?style=for-the-badge&logo=databricks&logoColor=white)
+**Backend & Web**
 
-### 🤖 AI & LLM
-![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)
-![LLM](https://img.shields.io/badge/LLM_Systems-7C3AED?style=for-the-badge&logo=openai&logoColor=white)
-![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-FF6B35?style=for-the-badge&logo=sparkles&logoColor=white)
+<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi&theme=dark&perline=8" />
 
-### 🧪 Testing & Tools
-![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+<br/>
+
+**Mobile & Design**
+
+<img src="https://skillicons.dev/icons?i=androidstudio,flutter,figma&theme=dark&perline=8" />
+
+<br/>
+
+**Databases & Cloud**
+
+<img src="https://skillicons.dev/icons?i=firebase,supabase,mysql,git,github&theme=dark&perline=8" />
+
+<br/>
+
+**AI / LLM Ecosystem**
+
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6B35?style=flat-square&logoColor=white)
+![LLM Systems](https://img.shields.io/badge/LLM_Systems-7C3AED?style=flat-square&logoColor=white)
+![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-00D9FF?style=flat-square&logoColor=white)
+![RAG Pipelines](https://img.shields.io/badge/RAG_Pipelines-22C55E?style=flat-square&logoColor=white)
+![Multi-Agent Systems](https://img.shields.io/badge/Multi--Agent_Systems-EC4899?style=flat-square&logoColor=white)
+
+<br/>
+
+**Testing**
+
+<img src="https://skillicons.dev/icons?i=selenium&theme=dark&perline=8" />
+
+![Manual Testing](https://img.shields.io/badge/Manual_Testing-3B82F6?style=flat-square)
+![Defect Lifecycle](https://img.shields.io/badge/Defect_Lifecycle-F59E0B?style=flat-square)
+![SDLC](https://img.shields.io/badge/SDLC-10B981?style=flat-square)
 
 </div>
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Projects
 
 <div align="center">
 
-| 🏗️ Project | 💡 What it Does | 🛠️ Stack |
-|---|---|---|
-| 🧠 **[Organizational Memory Engine](https://github.com/CreativeSpace27)** | Multi-agent AI system that stores, retrieves & reasons over org decisions using semantic search + LLMs | FastAPI · Ollama · ChromaDB · Python |
-| 🔒 **[LinkUp – Parental Control App](https://github.com/CreativeSpace27)** | "Backend as the Law" architecture — cloud-synced parental governance that can't be bypassed | Java · XML · Supabase |
-| 🌐 **[Problem Sphere](https://github.com/CreativeSpace27)** | Open platform bridging problem-holders & solvers — crowdsourcing innovation from real-world challenges | Full Stack |
+| ✦ | Project | What it does |
+|:---:|---------|------------|
+| 🧠 | **[Organizational Memory Engine](https://github.com/CreativeSpace27)** | Multi-agent AI that stores & reasons over org decisions using semantic search + local LLMs, with source attribution. |
+| 🔒 | **[LinkUp – Parental Control App](https://github.com/CreativeSpace27)** | Cloud-synced parental governance that can't be bypassed — real-time screen-time control that survives reinstalls. |
+| 🌐 | **[Problem Sphere](https://github.com/CreativeSpace27)** | Open platform connecting problem-holders with solvers — crowdsourcing innovation from real-world challenges. |
 
 </div>
-
----
-
-### 🧠 Organizational Memory Engine — Deep Dive
-
-```
-┌─────────────────────────────────────────────────────┐
-│           MULTI-AGENT AI ARCHITECTURE                │
-│                                                     │
-│  [User Query]                                       │
-│       │                                             │
-│       ▼                                             │
-│  ┌─────────┐    Semantic     ┌──────────────┐       │
-│  │ Agent 1 │ ──── Search ──▶ │  ChromaDB    │       │
-│  │ Router  │                 │  Vector DB   │       │
-│  └─────────┘                 └──────────────┘       │
-│       │                             │               │
-│       ▼                             ▼               │
-│  ┌─────────┐    Reasoning    ┌──────────────┐       │
-│  │ Agent 2 │ ◀──────────────│    Ollama    │       │
-│  │ Reasoner│                 │   Local LLM  │       │
-│  └─────────┘                 └──────────────┘       │
-│       │                                             │
-│       ▼                                             │
-│  [Explainable Response + Source Attribution]        │
-└─────────────────────────────────────────────────────┘
-```
 
 ---
 
@@ -137,75 +115,86 @@ class Piyush:
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=CreativeSpace27&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF&count_private=true" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=CreativeSpace27&theme=tokyonight&hide_border=true&background=0D1117&ring=00D9FF&fire=FF6B35&currStreakLabel=00D9FF" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=CreativeSpace27&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=FF6B35&text_color=FFFFFF&count_private=true&rank_icon=github" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=CreativeSpace27&theme=tokyonight&hide_border=true&background=0D1117&ring=00D9FF&fire=FF6B35&currStreakLabel=00D9FF&sideLabels=FFFFFF" />
 
 <br/>
 
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CreativeSpace27&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&langs_count=8" />
+<img width="38%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CreativeSpace27&layout=donut&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&langs_count=6" />
 
 </div>
 
 ---
 
-## 🏆 Achievements & Recognition
+## 🏆 Achievements
 
 <div align="center">
 
-| 🥇 | Achievement |
-|---|---|
-| 🥇 **1st Rank** | CodeSpark 2025 |
-| 🏅 **Finalist** | Smart India Hackathon (SIH) 2025 |
-| 🥈 **2nd Place** | National Technical Competition |
-| 🥉 **3rd Rank** | Gondia Conclave 2024 |
-| 🥉 **3rd Rank** | Codex Competition 2023–24 |
-
-</div>
-
----
-
-## 💼 Experience Timeline
-
-```
-2026  ── 🧪 Lead Software Testing Engineer (Intern) @ The Skill Guru Foundation
-          └─ Led remote QA, test design, defect lifecycle management
-
-2024  ── 📱 Android Development Intern @ Ur Engineering Friend
-          └─ Full-stack Android apps with Java + XML, UI/UX architecture
-
-2024  ── ☕ Java Backend Intern @ Info Origin Pvt. Ltd.
-          └─ Core Java, DB connectivity, DSA applied to real product features
-```
-
----
-
-## 🌱 Currently Exploring
-
-- 🤖 **Advanced Agentic AI** — orchestrating multi-agent workflows at scale
-- 🧬 **RAG Systems** — retrieval-augmented generation for production apps
-- ☁️ **Distributed Backend Systems** — microservices, message queues, resilience patterns
-- 🔐 **Cloud-native Security Architecture**
-
----
-
-<div align="center">
-
-### 💬 Let's Connect & Collaborate!
-
-*"I believe the best software solves real problems for real people — let's build that."*
-
-<br/>
-
-<a href="mailto:piyushbhadade27@gmail.com">
-  <img src="https://img.shields.io/badge/📧_Drop_me_a_mail-EA4335?style=for-the-badge" />
-</a>
-&nbsp;
-<a href="https://linkedin.com/in/piyushbhadade27">
-  <img src="https://img.shields.io/badge/💼_Connect_on_LinkedIn-0077B5?style=for-the-badge" />
-</a>
+<img src="https://github-profile-trophy.vercel.app/?username=CreativeSpace27&theme=tokyonight&no-frame=true&no-bg=true&column=4&margin-w=10&margin-h=10" />
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
+| Medal | Achievement | Year |
+|:---:|---|:---:|
+| 🥇 | **1st Rank** — CodeSpark | 2025 |
+| 🏅 | **SIH Finalist** — Smart India Hackathon | 2025 |
+| 🥈 | **2nd Place** — National Technical Competition | — |
+| 🥉 | **3rd Rank** — Gondia Conclave | 2024 |
+| 🥉 | **3rd Rank** — Codex Competition | 2023–24 |
+
+</div>
+
+---
+
+## 💼 Experience
+
+```
+▸ 2026   🧪  Lead Software Testing Engineer (Intern)  @  The Skill Guru Foundation
+              Designed test cases, led remote QA, managed full defect lifecycle
+
+▸ 2024   📱  Android Development Intern               @  Ur Engineering Friend
+              Full-stack Android (Java + XML), UI/UX design & architecture patterns
+
+▸ 2024   ☕  Java Backend Intern                      @  Info Origin Pvt. Ltd.
+              Core Java, DB connectivity, DSA applied to real product features
+```
+
+---
+
+## 🌱 What I'm Building Toward
+
+<div align="center">
+
+```
+  ┌──────────────────────────────────────────────┐
+  │                                              │
+  │   🤖  Agentic AI at production scale        │
+  │   🔗  RAG pipelines that reason precisely   │
+  │   ⚡  High-throughput backend systems        │
+  │   🛡️  Cloud-native security architecture   │
+  │   🌍  Open-source tools that help people   │
+  │                                              │
+  └──────────────────────────────────────────────┘
+```
+
+</div>
+
+---
+
+<div align="center">
+
+### 🤝 Let's build something that matters
+
+*"The best software solves real problems for real people."*
+
+<br/>
+
+[![Email](https://img.shields.io/badge/📧_piyushbhadade27@gmail.com-D14836?style=for-the-badge)](mailto:piyushbhadade27@gmail.com)
+&nbsp;&nbsp;
+[![Phone](https://img.shields.io/badge/📞_7378413889-25D366?style=for-the-badge)](tel:+917378413889)
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,3,30&height=120&section=footer&animation=twinkling" width="100%"/>
 
 </div>
