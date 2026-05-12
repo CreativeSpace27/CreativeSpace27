@@ -132,21 +132,7 @@ A multi-agent AI system designed to store, retrieve, and reason over an organiza
 🥉  3rd Rank     — Codex Competition 2023–24
 ```
 
----
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-![Piyush's GitHub Stats](https://github-readme-stats.vercel.app/api?username=CreativeSpace27&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CreativeSpace27&layout=compact&theme=tokyonight&hide_border=true)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=CreativeSpace27&theme=tokyonight&hide_border=true)
-
-</div>
-
----
 
 ## 🎓 Education
 
