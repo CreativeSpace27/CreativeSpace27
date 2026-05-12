@@ -1,10 +1,11 @@
 <div align="center">
 
-<!-- Animated Wave Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,3,30&height=200&section=header&text=Piyush%20Bhadade&fontSize=60&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Backend%20Engineer%20%7C%20Agentic%20AI%20Builder%20%7C%20Problem%20Solver&descAlignY=58&descSize=16&descColor=00D9FF" width="100%"/>
+![Header](./header.svg)
+
+<br/>
 
 <!-- Typing SVG -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=3000&pause=800&color=00D9FF&center=true&vCenter=true&width=750&lines=🔧+Building+scalable+backends+that+never+sleep;🤖+Crafting+Agentic+AI+Systems+with+purpose;📱+From+idea+to+app+—+end+to+end;🏆+SIH+2025+Finalist+%7C+CodeSpark+Champion;🚀+Turning+real+problems+into+real+solutions" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=16&duration=3000&pause=800&color=00D9FF&center=true&vCenter=true&width=750&lines=🔧+Building+scalable+backends+that+never+sleep;🤖+Crafting+Agentic+AI+Systems+with+purpose;📱+From+idea+to+app+—+end+to+end;🏆+SIH+2025+Finalist+%7C+CodeSpark+Champion;🚀+Turning+real+problems+into+real+solutions" alt="Typing SVG" />
 
 <br/>
 
@@ -54,25 +55,25 @@ class Piyush:
 
 <img src="https://skillicons.dev/icons?i=java,python,cpp,c&theme=dark&perline=8" />
 
-<br/>
+<br/><br/>
 
 **Backend & Web**
 
 <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi&theme=dark&perline=8" />
 
-<br/>
+<br/><br/>
 
 **Mobile & Design**
 
 <img src="https://skillicons.dev/icons?i=androidstudio,flutter,figma&theme=dark&perline=8" />
 
-<br/>
+<br/><br/>
 
 **Databases & Cloud**
 
 <img src="https://skillicons.dev/icons?i=firebase,supabase,mysql,git,github&theme=dark&perline=8" />
 
-<br/>
+<br/><br/>
 
 **AI / LLM Ecosystem**
 
@@ -83,9 +84,9 @@ class Piyush:
 ![RAG Pipelines](https://img.shields.io/badge/RAG_Pipelines-22C55E?style=flat-square&logoColor=white)
 ![Multi-Agent Systems](https://img.shields.io/badge/Multi--Agent_Systems-EC4899?style=flat-square&logoColor=white)
 
-<br/>
+<br/><br/>
 
-**Testing**
+**Testing & QA**
 
 <img src="https://skillicons.dev/icons?i=selenium&theme=dark&perline=8" />
 
@@ -118,7 +119,7 @@ class Piyush:
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=CreativeSpace27&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=FF6B35&text_color=FFFFFF&count_private=true&rank_icon=github" />
 <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=CreativeSpace27&theme=tokyonight&hide_border=true&background=0D1117&ring=00D9FF&fire=FF6B35&currStreakLabel=00D9FF&sideLabels=FFFFFF" />
 
-<br/>
+<br/><br/>
 
 <img width="38%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CreativeSpace27&layout=donut&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&langs_count=6" />
 
@@ -158,26 +159,6 @@ class Piyush:
 ▸ 2024   ☕  Java Backend Intern                      @  Info Origin Pvt. Ltd.
               Core Java, DB connectivity, DSA applied to real product features
 ```
-
----
-
-## 🌱 What I'm Building Toward
-
-<div align="center">
-
-```
-  ┌──────────────────────────────────────────────┐
-  │                                              │
-  │   🤖  Agentic AI at production scale        │
-  │   🔗  RAG pipelines that reason precisely   │
-  │   ⚡  High-throughput backend systems        │
-  │   🛡️  Cloud-native security architecture   │
-  │   🌍  Open-source tools that help people   │
-  │                                              │
-  └──────────────────────────────────────────────┘
-```
-
-</div>
 
 ---
 
